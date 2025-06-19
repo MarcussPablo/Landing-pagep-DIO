@@ -6,58 +6,10 @@ Projeto desenvolvido durante o curso **Trilha de CSS** da [Digital Innovation On
 
 ## 📸 Prévia
 
-![preview]'![alt text](imagens/banner.png)'  
-> Imagem de banner usada no topo da página
+![alt text](image.png)
 
 ---
 
-## 🧰 Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- Google Fonts (Raleway)
-- Imagens de uso livre (Pexels)
-
----
-
-## 🖼 Estrutura de Pastas
-
-# 🌐 Trilha de CSS da DIO
-
-Projeto desenvolvido durante o curso **Trilha de CSS** da [Digital Innovation One (DIO)](https://dio.me). O objetivo foi aplicar os principais conceitos de HTML e CSS para construir uma página visualmente agradável, moderna e responsiva.
-
----
-
-## 📸 Prévia
-
-![preview](./imagens/banner.png)  
-> Imagem de banner usada no topo da página
-
----
-
-## 🧰 Tecnologias Utilizadas
-
-- HTML5
-- CSS3
-- Google Fonts (Raleway)
-- Imagens de uso livre (Pexels)
-
----
-
-## 🖼 Estrutura de Pastas
-
-# 🌐 Trilha de CSS da DIO
-
-Projeto desenvolvido durante o curso **Trilha de CSS** da [Digital Innovation One (DIO)](https://dio.me). O objetivo foi aplicar os principais conceitos de HTML e CSS para construir uma página visualmente agradável, moderna e responsiva.
-
----
-
-## 📸 Prévia
-
-![preview](./imagens/banner.png)  
-> Imagem de banner usada no topo da página
-
----
 
 ## 🧰 Tecnologias Utilizadas
 
