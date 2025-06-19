@@ -6,7 +6,7 @@ Projeto desenvolvido durante o curso **Trilha de CSS** da [Digital Innovation On
 
 ## 📸 Prévia
 
-![preview](./imagens/banner.png)  
+![preview]'![alt text](imagens/banner.png)'  
 > Imagem de banner usada no topo da página
 
 ---
